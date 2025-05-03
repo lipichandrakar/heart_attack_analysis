@@ -47,6 +47,18 @@ This project is a machine learning pipeline in R to predict the presence of hear
 - Accuracy (e.g., *Accuracy: 0.85*)
 - Confusion matrix
 
+### 📊 Target Variable Distribution
+
+![Target Variable Distribution](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Target%20Variable%20Distribution.png?raw=true)
+
+### 📉 Cholesterol Distribution
+
+![Cholesterol Distribution](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Cholesterol%20Distribution.png?raw=true)
+
+### 🔥 Correlation Heatmap
+
+![Correlation Heatmap](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Correlation%20Heatmap.png?raw=true)
+
 ---
 
 ## 💾 Output Artifacts
